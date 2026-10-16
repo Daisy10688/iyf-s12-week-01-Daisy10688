@@ -8,6 +8,6 @@
 3. **Link hover styles:** (text-decoration: underline), cursor changes to a pointer (cursor: pointer).
 ## website 3
 1. **5 html elements:** `<html>`, `<head>`, `<body>`, `<img>`, `<a>`.
-2. **Form element and inputs:** <form> containing <input type="text"> for searching, <input type="submit"> / <button> for submitting, and hidden session <input> fields.
+2. **Form element and inputs:** `<form>` containing `<input type="text">` for searching, `<input type="submit">` / `<button>` for submitting, and hidden session `<input>` fields.
 3. **Screenshot:** Captured the browser Elements panel displaying the HTML structure.
 
