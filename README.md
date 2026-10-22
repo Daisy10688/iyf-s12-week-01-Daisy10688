@@ -28,6 +28,9 @@ Open `index.html` in a web browser.
 ## Challenges Faced
 1. semantic html
 
+## Semantic HTML & Accessibility
+**Link:** https://github.com/Daisy10688/iyf-s12-week-01-Daisy10688/blob/main/accessibility-report.md
+
 ## Live Demo
 [View my portfolio](https://daisy10688.github.io/iyf-s12-week-01-Daisy10688/)
 
