@@ -29,7 +29,7 @@ Open `index.html` in a web browser.
 1. semantic html
 
 ## Live Demo
-[View my portfolio](https://Daisy10688.github.io/iyf-s12-week-01-Daisy10688)
+[View my portfolio](https://daisy10688.github.io/iyf-s12-week-01-Daisy10688/)
 
 ## Technical Article
 comming soon
